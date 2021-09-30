@@ -1,4 +1,9 @@
 ### Hi there 👋
+<br><img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/steroidtocat.png' width='400"'>
+<br>
+<div align="left">
+<img src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" height="270px" width="450px" alt="GIF" />
+<br>
 
 <!--
 **Prashant111tt/Prashant111tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
