@@ -1,5 +1,5 @@
 ### Hi there 👋
-<br><img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/steroidtocat.png' width='400"'>
+<br><img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/steroidtocat.png' width='300"'>
 <br>
 <div align="left">
 <img src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" height="270px" width="450px" alt="GIF" />
